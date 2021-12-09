@@ -29,7 +29,7 @@ Para EN-US
 	Justin, Male
 	Joey, Male
 	
-**OUTPUT_ MP3 _BUCKET**
+**OUTPUT_MP3_BUCKET**
 
 	Nome do Bucket que a Lambda irá depositar o arquivo MP3 gerado pela Amazon Polly
 	
